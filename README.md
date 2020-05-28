@@ -13,4 +13,4 @@ Logistic Regression with Hyperparameter tuning
 
 ## Score
 
-ROC-AUC score 
+ROC-AUC score of 0.62 was achieved. 
